@@ -1,5 +1,7 @@
 import { PRODUCTS_CATEGORY } from "../interfaces/interfaces"
 
+ 
+
 export class Product{
     constructor(
      private id:string,

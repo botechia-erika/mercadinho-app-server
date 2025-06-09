@@ -49,7 +49,7 @@ app.use('/api/purchases', purchasesRouter.getRouter());
 app.use('/api/score', scoreRouter.getRouter());
 
 
-app.listen(3001, () => {
+app.listen(port, () => {
     console.log(`Server is running on port ${port}`);
 });
 
