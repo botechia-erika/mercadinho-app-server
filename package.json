@@ -1,0 +1,56 @@
+{
+    "name": "mercadinho-app-server",
+    "version": "1.0.0",
+    "description": "mercadinho-app-server",
+    "main": "build/index.js",
+    "scripts": {
+        "start": "node ./build/index.js",
+        "build": "tsc",
+        "dev": "concurrently  \"tsc -w\" \"nodemon build/index.js\""
+    },
+    "keywords": [
+        "mercadinho-app-server"
+    ],
+    "repository": {
+        "type": "GIT",
+        "url": "https://github.com/botechiadev/mercadinho-app-server.git"
+    },
+    "author": "botechiadev <botechiadev@gmail.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/bcryptjs": "^2.4.6",
+        "@types/body-parser": "^1.19.2",
+        "@types/cors": "^2.8.17",
+        "@types/dotenv": "^8.2.0",
+        "@types/express": "^4.17.21",
+        "@types/jsonwebtoken": "^9.0.5",
+        "@types/knex": "^0.16.1",
+        "@types/morgan": "^1.9.5",
+        "@types/node": "^20.10.6",
+        "@types/sqlite3": "^3.1.11",
+        "@types/uuid": "^9.0.7",
+        "colors": "^1.4.0",
+        "concurrently": "^8.2.2",
+        "nodemon": "^3.0.2",
+        "ts-node-dev": "^2.0.0",
+        "typescript": "^5.3.3",
+        "zod": "^3.22.4"
+    },
+    "dependencies": {
+        "@types/bcrypt": "^5.0.2",
+        "bcrypt": "^5.1.1",
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.20.2",
+        "cors": "^2.8.5",
+        "dotenv": "^16.3.1",
+        "express": "^4.18.2",
+        "jsonwebtoken": "^9.0.2",
+        "knex": "^2.5.1",
+        "moment": "^2.29.4",
+        "moment-range": "^4.0.2",
+        "morgan": "^1.10.0",
+        "package": "^1.0.1",
+        "sqlite3": "^5.1.6",
+        "uuid": "^9.0.1"
+    }
+}
