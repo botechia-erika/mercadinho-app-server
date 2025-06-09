@@ -1,0 +1,65 @@
+[
+    {
+      "id": "2e9e93ff-6ce7-429f-80f4-8e2c903aaf64",
+      "title": "Jogo de Copos",
+      "ingredients": ["2 copos", "1 prato", "1 xicara", "1 pote calice", "1 pote de geleia", "Ilustracoes de Romero Britto"],
+      "cooking": ["1000pontos"],
+      "description": "Lindo jogo de café da manhã.",
+      "imgUrl": "https://i.postimg.cc/BbWXBvB9/jogo-cafe-manha.jpg",
+      "category": "Casa"
+    },
+    {
+      "id": "47fb78ff-0167-4fd7-a6bb-c44e768e9e5",
+      "title": "RED CUPS",
+      "ingredients":["12 red cups de plastico"],
+      "cooking":  ["600pontos"],
+      "description": "Incrivel jogo de copo das festas americanas.",
+      "imgUrl": "https://i.postimg.cc/85yDwW8K/RED-CUP.webp",
+      "category": "Festa"
+    },
+    {
+      "id": "c24d78ff-0167-4fd7-a6bb-c44e768e9e5", 
+      "title": "Cafeteira Mickey Mouse",
+      "ingredients": ["1 caneca", "1 cafeteira 110v", "Produto Disney Mickey Mouse"],
+      "cooking": ["2500pontos"],
+      "description": "Tome seu café com mickey.",
+      "imgUrl": "https://i.postimg.cc/Gh474DXL/cafeteira-mickey-mouse.webp",
+      "category": "casa"
+    },
+    {
+      "id": "a3624954-9ed7-11ee-8c90-0242ac120002",
+      "title": "Toalha Xadrez",
+      "ingredients": ["200pontos"],
+      "cooking": ["1 toalha de mesa", "ideal para mesa de ate 4 pessoas", "estampa xadrez"],
+      "description": "Linda Toalha de mesa xadrez para mesa de 4 pessoas.",
+      "imgUrl": "https://i.postimg.cc/FKsdFsnX/toalha-mesa-xadrez.jpg",
+      "category": "casa"
+    },
+    {
+      "id": "d28cb682-fdd5-4c41-8b5a-8b8770f61d4b",
+      "title": "TV 43 Polegadas",
+      "ingredients": ["1 tv 43 polegadas"],
+      "cooking": ["20000pontos"],
+      "description": "Assista o futebol de domingo na tv nova.",
+      "imgUrl": "https://i.postimg.cc/KY3sRFW4/tv43polegadas1.webp",
+      "category": "casa"
+    },
+    {
+      "id": "d6699546-9ed7-11ee-8c90-0242ac120002",
+      "title": "Cafeteira manual prensa francesa",
+      "ingredients": ["1 cafeteira manual", "estilo prensa francesa"],
+      "cooking": ["300 pontos"],
+      "description": "Cafeteira prensa manual francesa.",
+      "imgUrl": "https://i.postimg.cc/6pFxHHJ2/cafeteira-francesa.jpg",
+      "category": "casa"
+    },
+    {
+      "id":"9d9e93ff-6cz7-429f-80f2-8e2c903aff64",
+      "title": "Fone Bluetooth Blue It",
+      "cooking": ["1800pontos"],
+      "ingredients": ["1 par de fone de ouvidos", "case carregador", "fio usb para carregar", "marca BLUE IT"],
+      "description": "Escute sua musica com as maos livres",
+      "imgUrl": "https://i.postimg.cc/gJxKJKBp/fone-ouvido-blueit.webp",
+      "category": "eletronicos"
+    }
+  ]
